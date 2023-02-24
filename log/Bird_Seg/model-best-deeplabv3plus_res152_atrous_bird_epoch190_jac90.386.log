@@ -1,0 +1,895 @@
+  ❯ .\sh_train.ps1
+Use 1 GPU
+epoch:0/200     mean CE loss:2.57065    mean IoU loss:0.445169
+
+C:\ProgramData\Anaconda3\envs\dlearn\lib\site-packages\torch\nn\functional.py:3679: UserWarning: The default behavior for interpolate/upsample with float scale_factor changed in 1.6.0 to align with other frameworks/libraries, and now uses scale_factor directly, instead of relying on the computed output size. If you wish to restore the old behavior, please set recompute_scale_factor=True. See the documentation of nn.Upsample for details.
+  warnings.warn(
+       Acc: 14.603%          Sen:100.000%          Spe:  0.000%         Prec: 14.603%         Dice: 24.299%          Jac: 14.603%           F2: 42.015%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch0_jac14.603.pth has been saved
+epoch:1/200     mean CE loss:1.25694    mean IoU loss:0.272289
+
+       Acc: 14.603%          Sen:100.000%          Spe:  0.000%         Prec: 14.603%         Dice: 24.299%          Jac: 14.603%           F2: 42.015%
+
+epoch:2/200     mean CE loss:1.08981    mean IoU loss:0.23382
+
+       Acc: 14.603%          Sen:100.000%          Spe:  0.000%         Prec: 14.603%         Dice: 24.299%          Jac: 14.603%           F2: 42.015%
+
+epoch:3/200     mean CE loss:0.941559   mean IoU loss:0.212414
+
+       Acc: 14.603%          Sen:100.000%          Spe:  0.000%         Prec: 14.603%         Dice: 24.299%          Jac: 14.603%           F2: 42.015%
+
+epoch:4/200     mean CE loss:0.876618   mean IoU loss:0.199529
+
+       Acc: 14.603%          Sen:100.000%          Spe:  0.000%         Prec: 14.603%         Dice: 24.299%          Jac: 14.603%           F2: 42.015%
+
+epoch:5/200     mean CE loss:0.806799   mean IoU loss:0.187101
+
+       Acc: 14.603%          Sen:100.000%          Spe:  0.000%         Prec: 14.603%         Dice: 24.299%          Jac: 14.603%           F2: 42.015%
+
+epoch:6/200     mean CE loss:0.795114   mean IoU loss:0.179783
+
+       Acc: 14.603%          Sen:100.000%          Spe:  0.000%         Prec: 14.603%         Dice: 24.299%          Jac: 14.603%           F2: 42.015%
+
+epoch:7/200     mean CE loss:0.753518   mean IoU loss:0.174803
+
+       Acc: 14.604%          Sen:100.000%          Spe:  0.000%         Prec: 14.603%         Dice: 24.299%          Jac: 14.603%           F2: 42.015%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch7_jac14.603.pth has been saved
+epoch:8/200     mean CE loss:0.67059    mean IoU loss:0.16164
+
+       Acc: 14.613%          Sen:100.000%          Spe:  0.010%         Prec: 14.604%         Dice: 24.300%          Jac: 14.604%           F2: 42.017%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch8_jac14.604.pth has been saved
+epoch:9/200     mean CE loss:0.633008   mean IoU loss:0.15724
+
+       Acc: 14.940%          Sen: 99.995%          Spe:  0.362%         Prec: 14.628%         Dice: 24.341%          Jac: 14.628%           F2: 42.086%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch9_jac14.628.pth has been saved
+epoch:10/200    mean CE loss:0.654709   mean IoU loss:0.157509
+
+       Acc: 17.669%          Sen: 99.975%          Spe:  3.330%         Prec: 14.880%         Dice: 24.756%          Jac: 14.880%           F2: 42.743%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch10_jac14.880.pth has been saved
+epoch:11/200    mean CE loss:0.604708   mean IoU loss:0.149718
+
+       Acc: 19.440%          Sen: 99.971%          Spe:  5.245%         Prec: 15.056%         Dice: 25.047%          Jac: 15.055%           F2: 43.205%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch11_jac15.055.pth has been saved
+epoch:12/200    mean CE loss:0.535322   mean IoU loss:0.142527
+
+       Acc: 26.712%          Sen: 99.902%          Spe: 13.212%         Prec: 16.071%         Dice: 26.654%          Jac: 16.070%           F2: 45.550%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch12_jac16.070.pth has been saved
+epoch:13/200    mean CE loss:0.561403   mean IoU loss:0.145614
+
+       Acc: 29.602%          Sen: 99.846%          Spe: 16.400%         Prec: 16.615%         Dice: 27.481%          Jac: 16.612%           F2: 46.673%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch13_jac16.612.pth has been saved
+epoch:14/200    mean CE loss:0.509826   mean IoU loss:0.136823
+
+       Acc: 42.912%          Sen: 99.680%          Spe: 31.455%         Prec: 20.181%         Dice: 32.532%          Jac: 20.167%           F2: 52.773%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch14_jac20.167.pth has been saved
+epoch:15/200    mean CE loss:0.509066   mean IoU loss:0.137397
+
+       Acc: 55.631%          Sen: 99.430%          Spe: 46.078%         Prec: 25.554%         Dice: 39.430%          Jac: 25.501%           F2: 59.969%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch15_jac25.501.pth has been saved
+epoch:16/200    mean CE loss:0.475079   mean IoU loss:0.130477
+
+       Acc: 56.293%          Sen: 99.417%          Spe: 46.828%         Prec: 25.933%         Dice: 39.899%          Jac: 25.874%           F2: 60.421%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch16_jac25.874.pth has been saved
+epoch:17/200    mean CE loss:0.45946    mean IoU loss:0.130139
+
+       Acc: 65.357%          Sen: 99.347%          Spe: 57.453%         Prec: 31.024%         Dice: 45.943%          Jac: 30.924%           F2: 66.097%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch17_jac30.924.pth has been saved
+epoch:18/200    mean CE loss:0.435922   mean IoU loss:0.125829
+
+       Acc: 71.715%          Sen: 99.229%          Spe: 64.937%         Prec: 35.600%         Dice: 51.042%          Jac: 35.441%           F2: 70.510%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch18_jac35.441.pth has been saved
+epoch:19/200    mean CE loss:0.413783   mean IoU loss:0.122137
+
+       Acc: 74.238%          Sen: 99.176%          Spe: 67.955%         Prec: 37.797%         Dice: 53.365%          Jac: 37.604%           F2: 72.382%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch19_jac37.604.pth has been saved
+epoch:20/200    mean CE loss:0.396063   mean IoU loss:0.11856
+
+       Acc: 82.051%          Sen: 98.868%          Spe: 77.414%         Prec: 46.281%         Dice: 61.862%          Jac: 45.935%           F2: 78.765%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch20_jac45.935.pth has been saved
+epoch:21/200    mean CE loss:0.388925   mean IoU loss:0.118273
+
+       Acc: 86.192%          Sen: 98.786%          Spe: 82.491%         Prec: 52.464%         Dice: 67.523%          Jac: 52.038%           F2: 82.581%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch21_jac52.038.pth has been saved
+epoch:22/200    mean CE loss:0.386901   mean IoU loss:0.119068
+
+       Acc: 89.382%          Sen: 98.531%          Spe: 86.571%         Prec: 58.111%         Dice: 72.263%          Jac: 57.524%           F2: 85.467%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch22_jac57.524.pth has been saved
+epoch:23/200    mean CE loss:0.37168    mean IoU loss:0.114487
+
+       Acc: 90.186%          Sen: 98.408%          Spe: 87.556%         Prec: 60.223%         Dice: 73.946%          Jac: 59.547%           F2: 86.428%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch23_jac59.547.pth has been saved
+epoch:24/200    mean CE loss:0.364253   mean IoU loss:0.114834
+
+       Acc: 88.147%          Sen: 98.797%          Spe: 84.968%         Prec: 55.273%         Dice: 70.051%          Jac: 54.822%           F2: 84.295%
+
+epoch:25/200    mean CE loss:0.362397   mean IoU loss:0.113733
+
+       Acc: 90.130%          Sen: 98.432%          Spe: 87.440%         Prec: 60.297%         Dice: 73.976%          Jac: 59.624%           F2: 86.439%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch25_jac59.624.pth has been saved
+epoch:26/200    mean CE loss:0.357782   mean IoU loss:0.11059
+
+       Acc: 91.312%          Sen: 98.389%          Spe: 88.991%         Prec: 62.870%         Dice: 75.982%          Jac: 62.140%           F2: 87.590%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch26_jac62.140.pth has been saved
+epoch:27/200    mean CE loss:0.33587    mean IoU loss:0.109233
+
+       Acc: 92.149%          Sen: 98.140%          Spe: 90.114%         Prec: 64.889%         Dice: 77.473%          Jac: 64.012%           F2: 88.328%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch27_jac64.012.pth has been saved
+epoch:28/200    mean CE loss:0.335036   mean IoU loss:0.108891
+
+       Acc: 93.448%          Sen: 97.871%          Spe: 91.789%         Prec: 69.227%         Dice: 80.490%          Jac: 68.101%           F2: 89.794%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch28_jac68.101.pth has been saved
+epoch:29/200    mean CE loss:0.332119   mean IoU loss:0.107103
+
+       Acc: 94.196%          Sen: 97.675%          Spe: 92.854%         Prec: 71.146%         Dice: 81.771%          Jac: 69.870%           F2: 90.369%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch29_jac69.870.pth has been saved
+epoch:30/200    mean CE loss:0.317745   mean IoU loss:0.107148
+
+       Acc: 94.042%          Sen: 97.676%          Spe: 92.571%         Prec: 71.172%         Dice: 81.836%          Jac: 69.899%           F2: 90.427%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch30_jac69.899.pth has been saved
+epoch:31/200    mean CE loss:0.32088    mean IoU loss:0.105547
+
+       Acc: 94.120%          Sen: 97.701%          Spe: 92.704%         Prec: 71.202%         Dice: 81.874%          Jac: 69.925%           F2: 90.468%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch31_jac69.925.pth has been saved
+epoch:32/200    mean CE loss:0.315295   mean IoU loss:0.104867
+
+       Acc: 95.040%          Sen: 97.188%          Spe: 93.971%         Prec: 74.720%         Dice: 84.028%          Jac: 73.025%           F2: 91.267%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch32_jac73.025.pth has been saved
+epoch:33/200    mean CE loss:0.325958   mean IoU loss:0.106054
+
+       Acc: 95.444%          Sen: 96.962%          Spe: 94.493%         Prec: 76.826%         Dice: 85.285%          Jac: 74.870%           F2: 91.752%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch33_jac74.870.pth has been saved
+epoch:34/200    mean CE loss:0.310117   mean IoU loss:0.104271
+
+       Acc: 95.499%          Sen: 97.364%          Spe: 94.576%         Prec: 76.273%         Dice: 85.108%          Jac: 74.626%           F2: 91.887%
+
+epoch:35/200    mean CE loss:0.303717   mean IoU loss:0.101626
+
+       Acc: 96.100%          Sen: 96.855%          Spe: 95.433%         Prec: 79.106%         Dice: 86.708%          Jac: 77.015%           F2: 92.379%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch35_jac77.015.pth has been saved
+epoch:36/200    mean CE loss:0.313896   mean IoU loss:0.101696
+
+       Acc: 96.320%          Sen: 96.711%          Spe: 95.742%         Prec: 80.186%         Dice: 87.296%          Jac: 77.940%           F2: 92.569%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch36_jac77.940.pth has been saved
+epoch:37/200    mean CE loss:0.301174   mean IoU loss:0.100472
+
+       Acc: 96.383%          Sen: 96.833%          Spe: 95.806%         Prec: 80.393%         Dice: 87.475%          Jac: 78.225%           F2: 92.717%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch37_jac78.225.pth has been saved
+epoch:38/200    mean CE loss:0.301262   mean IoU loss:0.10113
+
+       Acc: 96.637%          Sen: 96.544%          Spe: 96.146%         Prec: 82.049%         Dice: 88.305%          Jac: 79.569%           F2: 92.922%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch38_jac79.569.pth has been saved
+epoch:39/200    mean CE loss:0.293335   mean IoU loss:0.100695
+
+       Acc: 96.649%          Sen: 96.285%          Spe: 96.209%         Prec: 82.182%         Dice: 88.302%          Jac: 79.539%           F2: 92.787%
+
+epoch:40/200    mean CE loss:0.288073   mean IoU loss:0.0981754
+
+       Acc: 96.565%          Sen: 96.673%          Spe: 96.046%         Prec: 81.495%         Dice: 88.046%          Jac: 79.145%           F2: 92.882%
+
+epoch:41/200    mean CE loss:0.289053   mean IoU loss:0.0994519
+
+       Acc: 96.938%          Sen: 96.231%          Spe: 96.584%         Prec: 83.683%         Dice: 89.133%          Jac: 80.891%           F2: 93.123%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch41_jac80.891.pth has been saved
+epoch:42/200    mean CE loss:0.285394   mean IoU loss:0.0983903
+
+       Acc: 97.001%          Sen: 96.176%          Spe: 96.665%         Prec: 84.100%         Dice: 89.377%          Jac: 81.237%           F2: 93.211%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch42_jac81.237.pth has been saved
+epoch:43/200    mean CE loss:0.299549   mean IoU loss:0.0966589
+
+       Acc: 97.051%          Sen: 96.422%          Spe: 96.694%         Prec: 84.240%         Dice: 89.569%          Jac: 81.560%           F2: 93.435%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch43_jac81.560.pth has been saved
+epoch:44/200    mean CE loss:0.296819   mean IoU loss:0.0973809
+
+       Acc: 97.014%          Sen: 96.412%          Spe: 96.647%         Prec: 84.043%         Dice: 89.463%          Jac: 81.368%           F2: 93.387%
+
+epoch:45/200    mean CE loss:0.281015   mean IoU loss:0.0947694
+
+       Acc: 97.231%          Sen: 95.800%          Spe: 97.008%         Prec: 85.709%         Dice: 90.135%          Jac: 82.456%           F2: 93.336%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch45_jac82.456.pth has been saved
+epoch:46/200    mean CE loss:0.277836   mean IoU loss:0.0951784
+
+       Acc: 97.485%          Sen: 95.124%          Spe: 97.426%         Prec: 87.530%         Dice: 90.819%          Jac: 83.616%           F2: 93.240%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch46_jac83.616.pth has been saved
+epoch:47/200    mean CE loss:0.281929   mean IoU loss:0.0955553
+
+       Acc: 97.350%          Sen: 95.865%          Spe: 97.183%         Prec: 86.051%         Dice: 90.344%          Jac: 82.835%           F2: 93.460%
+
+epoch:48/200    mean CE loss:0.26937    mean IoU loss:0.0940861
+
+       Acc: 97.448%          Sen: 95.886%          Spe: 97.284%         Prec: 86.682%         Dice: 90.722%          Jac: 83.438%           F2: 93.642%
+
+epoch:49/200    mean CE loss:0.271781   mean IoU loss:0.0936389
+
+       Acc: 97.477%          Sen: 95.919%          Spe: 97.338%         Prec: 86.710%         Dice: 90.770%          Jac: 83.500%           F2: 93.687%
+
+epoch:50/200    mean CE loss:0.268952   mean IoU loss:0.0935038
+
+       Acc: 97.562%          Sen: 95.801%          Spe: 97.473%         Prec: 87.223%         Dice: 91.002%          Jac: 83.889%           F2: 93.720%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch50_jac83.889.pth has been saved
+epoch:51/200    mean CE loss:0.280966   mean IoU loss:0.0938908
+
+       Acc: 97.563%          Sen: 95.755%          Spe: 97.467%         Prec: 87.321%         Dice: 91.006%          Jac: 83.912%           F2: 93.686%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch51_jac83.912.pth has been saved
+epoch:52/200    mean CE loss:0.272031   mean IoU loss:0.0941175
+
+       Acc: 97.715%          Sen: 95.187%          Spe: 97.753%         Prec: 88.560%         Dice: 91.436%          Jac: 84.614%           F2: 93.549%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch52_jac84.614.pth has been saved
+epoch:53/200    mean CE loss:0.264425   mean IoU loss:0.0930396
+
+       Acc: 97.657%          Sen: 95.706%          Spe: 97.581%         Prec: 87.960%         Dice: 91.370%          Jac: 84.499%           F2: 93.827%
+
+epoch:54/200    mean CE loss:0.268191   mean IoU loss:0.0918665
+
+       Acc: 97.716%          Sen: 95.648%          Spe: 97.682%         Prec: 88.231%         Dice: 91.481%          Jac: 84.696%           F2: 93.838%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch54_jac84.696.pth has been saved
+epoch:55/200    mean CE loss:0.265223   mean IoU loss:0.0915272
+
+       Acc: 97.809%          Sen: 95.574%          Spe: 97.814%         Prec: 88.812%         Dice: 91.743%          Jac: 85.171%           F2: 93.899%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch55_jac85.171.pth has been saved
+epoch:56/200    mean CE loss:0.260644   mean IoU loss:0.0907149
+
+       Acc: 97.843%          Sen: 95.415%          Spe: 97.888%         Prec: 89.061%         Dice: 91.809%          Jac: 85.285%           F2: 93.838%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch56_jac85.285.pth has been saved
+epoch:57/200    mean CE loss:0.271451   mean IoU loss:0.0915267
+
+       Acc: 97.886%          Sen: 95.116%          Spe: 97.966%         Prec: 89.673%         Dice: 91.995%          Jac: 85.599%           F2: 93.742%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch57_jac85.599.pth has been saved
+epoch:58/200    mean CE loss:0.265873   mean IoU loss:0.0898431
+
+       Acc: 97.866%          Sen: 95.171%          Spe: 97.931%         Prec: 89.524%         Dice: 91.943%          Jac: 85.498%           F2: 93.754%
+
+epoch:59/200    mean CE loss:0.260859   mean IoU loss:0.0901041
+
+       Acc: 97.818%          Sen: 95.561%          Spe: 97.832%         Prec: 88.878%         Dice: 91.783%          Jac: 85.243%           F2: 93.911%
+
+epoch:60/200    mean CE loss:0.257104   mean IoU loss:0.0892569
+
+       Acc: 97.846%          Sen: 95.864%          Spe: 97.824%         Prec: 88.770%         Dice: 91.876%          Jac: 85.397%           F2: 94.129%
+
+epoch:61/200    mean CE loss:0.255182   mean IoU loss:0.0902669
+
+       Acc: 97.728%          Sen: 96.121%          Spe: 97.646%         Prec: 87.848%         Dice: 91.438%          Jac: 84.783%           F2: 94.067%
+
+epoch:62/200    mean CE loss:0.263746   mean IoU loss:0.0894917
+
+       Acc: 97.873%          Sen: 95.771%          Spe: 97.882%         Prec: 88.963%         Dice: 91.903%          Jac: 85.554%           F2: 94.071%
+
+epoch:63/200    mean CE loss:0.245698   mean IoU loss:0.0876468
+
+       Acc: 97.994%          Sen: 95.291%          Spe: 98.124%         Prec: 89.989%         Dice: 92.246%          Jac: 86.089%           F2: 93.947%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch63_jac86.089.pth has been saved
+epoch:64/200    mean CE loss:0.256916   mean IoU loss:0.0893561
+
+       Acc: 98.013%          Sen: 95.281%          Spe: 98.147%         Prec: 90.127%         Dice: 92.312%          Jac: 86.212%           F2: 93.968%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch64_jac86.212.pth has been saved
+epoch:65/200    mean CE loss:0.249441   mean IoU loss:0.0886998
+
+       Acc: 97.948%          Sen: 95.365%          Spe: 98.040%         Prec: 89.771%         Dice: 92.140%          Jac: 85.938%           F2: 93.936%
+
+epoch:66/200    mean CE loss:0.253298   mean IoU loss:0.0885492
+
+       Acc: 98.022%          Sen: 95.515%          Spe: 98.114%         Prec: 90.103%         Dice: 92.407%          Jac: 86.351%           F2: 94.142%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch66_jac86.351.pth has been saved
+epoch:67/200    mean CE loss:0.247775   mean IoU loss:0.0880533
+
+       Acc: 98.111%          Sen: 95.267%          Spe: 98.277%         Prec: 90.797%         Dice: 92.651%          Jac: 86.787%           F2: 94.098%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch67_jac86.787.pth has been saved
+epoch:68/200    mean CE loss:0.266378   mean IoU loss:0.0885231
+
+       Acc: 98.057%          Sen: 95.538%          Spe: 98.159%         Prec: 90.254%         Dice: 92.493%          Jac: 86.520%           F2: 94.189%
+
+epoch:69/200    mean CE loss:0.259519   mean IoU loss:0.0870681
+
+       Acc: 98.043%          Sen: 95.428%          Spe: 98.143%         Prec: 90.360%         Dice: 92.490%          Jac: 86.531%           F2: 94.123%
+
+epoch:70/200    mean CE loss:0.232698   mean IoU loss:0.0861793
+
+       Acc: 98.129%          Sen: 95.198%          Spe: 98.293%         Prec: 91.036%         Dice: 92.752%          Jac: 86.959%           F2: 94.104%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch70_jac86.959.pth has been saved
+epoch:71/200    mean CE loss:0.234876   mean IoU loss:0.0850956
+
+       Acc: 98.101%          Sen: 95.513%          Spe: 98.223%         Prec: 90.607%         Dice: 92.676%          Jac: 86.806%           F2: 94.256%
+
+epoch:72/200    mean CE loss:0.251093   mean IoU loss:0.0860376
+
+       Acc: 98.205%          Sen: 94.944%          Spe: 98.424%         Prec: 91.734%         Dice: 93.000%          Jac: 87.347%           F2: 94.061%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch72_jac87.347.pth has been saved
+epoch:73/200    mean CE loss:0.239766   mean IoU loss:0.0855236
+
+       Acc: 98.139%          Sen: 95.541%          Spe: 98.260%         Prec: 90.801%         Dice: 92.806%          Jac: 87.018%           F2: 94.332%
+
+epoch:74/200    mean CE loss:0.242194   mean IoU loss:0.086553
+
+       Acc: 98.266%          Sen: 94.553%          Spe: 98.571%         Prec: 92.383%         Dice: 93.153%          Jac: 87.593%           F2: 93.899%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch74_jac87.593.pth has been saved
+epoch:75/200    mean CE loss:0.237037   mean IoU loss:0.0861139
+
+       Acc: 98.280%          Sen: 94.789%          Spe: 98.553%         Prec: 92.254%         Dice: 93.213%          Jac: 87.690%           F2: 94.067%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch75_jac87.690.pth has been saved
+epoch:76/200    mean CE loss:0.243923   mean IoU loss:0.08597
+
+       Acc: 98.289%          Sen: 94.912%          Spe: 98.537%         Prec: 92.274%         Dice: 93.284%          Jac: 87.805%           F2: 94.169%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch76_jac87.805.pth has been saved
+epoch:77/200    mean CE loss:0.237021   mean IoU loss:0.084803
+
+       Acc: 98.305%          Sen: 94.836%          Spe: 98.573%         Prec: 92.369%         Dice: 93.297%          Jac: 87.821%           F2: 94.131%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch77_jac87.821.pth has been saved
+epoch:78/200    mean CE loss:0.235866   mean IoU loss:0.0852062
+
+       Acc: 98.335%          Sen: 94.559%          Spe: 98.645%         Prec: 92.802%         Dice: 93.382%          Jac: 87.962%           F2: 94.002%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch78_jac87.962.pth has been saved
+epoch:79/200    mean CE loss:0.237267   mean IoU loss:0.0848195
+
+       Acc: 98.313%          Sen: 94.945%          Spe: 98.566%         Prec: 92.367%         Dice: 93.353%          Jac: 87.910%           F2: 94.219%
+
+epoch:80/200    mean CE loss:0.228884   mean IoU loss:0.0852121
+
+       Acc: 98.244%          Sen: 95.324%          Spe: 98.428%         Prec: 91.657%         Dice: 93.161%          Jac: 87.597%           F2: 94.358%
+
+epoch:81/200    mean CE loss:0.228096   mean IoU loss:0.0837406
+
+       Acc: 98.222%          Sen: 95.567%          Spe: 98.371%         Prec: 91.294%         Dice: 93.103%          Jac: 87.476%           F2: 94.482%
+
+epoch:82/200    mean CE loss:0.228768   mean IoU loss:0.0838253
+
+       Acc: 98.328%          Sen: 95.033%          Spe: 98.570%         Prec: 92.459%         Dice: 93.449%          Jac: 88.079%           F2: 94.311%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch82_jac88.079.pth has been saved
+epoch:83/200    mean CE loss:0.237779   mean IoU loss:0.0834567
+
+       Acc: 98.297%          Sen: 95.463%          Spe: 98.476%         Prec: 91.884%         Dice: 93.365%          Jac: 87.928%           F2: 94.531%
+
+epoch:84/200    mean CE loss:0.237727   mean IoU loss:0.0842477
+
+       Acc: 98.374%          Sen: 94.793%          Spe: 98.661%         Prec: 92.904%         Dice: 93.560%          Jac: 88.268%           F2: 94.217%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch84_jac88.268.pth has been saved
+epoch:85/200    mean CE loss:0.225065   mean IoU loss:0.0824785
+
+       Acc: 98.439%          Sen: 94.302%          Spe: 98.838%         Prec: 93.644%         Dice: 93.700%          Jac: 88.510%           F2: 93.986%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch85_jac88.510.pth has been saved
+epoch:86/200    mean CE loss:0.22597    mean IoU loss:0.083344
+
+       Acc: 98.381%          Sen: 95.128%          Spe: 98.650%         Prec: 92.548%         Dice: 93.551%          Jac: 88.254%           F2: 94.414%
+
+epoch:87/200    mean CE loss:0.232642   mean IoU loss:0.0829828
+
+       Acc: 98.431%          Sen: 94.690%          Spe: 98.771%         Prec: 93.269%         Dice: 93.705%          Jac: 88.516%           F2: 94.218%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch87_jac88.516.pth has been saved
+epoch:88/200    mean CE loss:0.227494   mean IoU loss:0.0828363
+
+       Acc: 98.447%          Sen: 94.674%          Spe: 98.796%         Prec: 93.363%         Dice: 93.748%          Jac: 88.592%           F2: 94.228%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch88_jac88.592.pth has been saved
+epoch:89/200    mean CE loss:0.245556   mean IoU loss:0.081893
+
+       Acc: 98.438%          Sen: 94.940%          Spe: 98.744%         Prec: 93.090%         Dice: 93.739%          Jac: 88.576%           F2: 94.381%
+
+epoch:90/200    mean CE loss:0.234872   mean IoU loss:0.0819365
+
+       Acc: 98.463%          Sen: 94.807%          Spe: 98.786%         Prec: 93.391%         Dice: 93.832%          Jac: 88.734%           F2: 94.342%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch90_jac88.734.pth has been saved
+epoch:91/200    mean CE loss:0.22577    mean IoU loss:0.0816296
+
+       Acc: 98.502%          Sen: 94.496%          Spe: 98.889%         Prec: 93.885%         Dice: 93.938%          Jac: 88.913%           F2: 94.204%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch91_jac88.913.pth has been saved
+epoch:92/200    mean CE loss:0.221781   mean IoU loss:0.081369
+
+       Acc: 98.478%          Sen: 94.814%          Spe: 98.811%         Prec: 93.471%         Dice: 93.885%          Jac: 88.819%           F2: 94.371%
+
+epoch:93/200    mean CE loss:0.221693   mean IoU loss:0.0803423
+
+       Acc: 98.528%          Sen: 94.006%          Spe: 98.991%         Prec: 94.457%         Dice: 93.976%          Jac: 88.979%           F2: 93.928%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch93_jac88.979.pth has been saved
+epoch:94/200    mean CE loss:0.21923    mean IoU loss:0.0818933
+
+       Acc: 98.512%          Sen: 94.686%          Spe: 98.875%         Prec: 93.783%         Dice: 93.983%          Jac: 88.989%           F2: 94.337%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch94_jac88.989.pth has been saved
+epoch:95/200    mean CE loss:0.221343   mean IoU loss:0.0798696
+
+       Acc: 98.517%          Sen: 94.559%          Spe: 98.907%         Prec: 93.914%         Dice: 93.981%          Jac: 88.986%           F2: 94.259%
+
+epoch:96/200    mean CE loss:0.218703   mean IoU loss:0.0815842
+
+       Acc: 98.522%          Sen: 94.089%          Spe: 98.960%         Prec: 94.332%         Dice: 93.945%          Jac: 88.930%           F2: 93.962%
+
+epoch:97/200    mean CE loss:0.222963   mean IoU loss:0.0815037
+
+       Acc: 98.537%          Sen: 94.545%          Spe: 98.926%         Prec: 94.054%         Dice: 94.053%          Jac: 89.106%           F2: 94.282%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch97_jac89.106.pth has been saved
+epoch:98/200    mean CE loss:0.216562   mean IoU loss:0.0809659
+
+       Acc: 98.536%          Sen: 94.707%          Spe: 98.906%         Prec: 93.912%         Dice: 94.068%          Jac: 89.127%           F2: 94.386%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch98_jac89.127.pth has been saved
+epoch:99/200    mean CE loss:0.217735   mean IoU loss:0.0811307
+
+       Acc: 98.566%          Sen: 94.260%          Spe: 99.014%         Prec: 94.480%         Dice: 94.131%          Jac: 89.241%           F2: 94.146%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch99_jac89.241.pth has been saved
+epoch:100/200   mean CE loss:0.213057   mean IoU loss:0.0800259
+
+       Acc: 98.581%          Sen: 94.229%          Spe: 99.037%         Prec: 94.628%         Dice: 94.197%          Jac: 89.350%           F2: 94.157%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch100_jac89.350.pth has been saved
+epoch:101/200   mean CE loss:0.215215   mean IoU loss:0.0790069
+
+       Acc: 98.569%          Sen: 94.366%          Spe: 98.997%         Prec: 94.426%         Dice: 94.162%          Jac: 89.288%           F2: 94.224%
+
+epoch:102/200   mean CE loss:0.219797   mean IoU loss:0.0791886
+
+       Acc: 98.550%          Sen: 94.750%          Spe: 98.929%         Prec: 93.931%         Dice: 94.106%          Jac: 89.191%           F2: 94.430%
+
+epoch:103/200   mean CE loss:0.208972   mean IoU loss:0.079497
+
+       Acc: 98.561%          Sen: 94.866%          Spe: 98.917%         Prec: 93.934%         Dice: 94.163%          Jac: 89.292%           F2: 94.521%
+
+epoch:104/200   mean CE loss:0.216309   mean IoU loss:0.0793362
+
+       Acc: 98.546%          Sen: 95.049%          Spe: 98.867%         Prec: 93.698%         Dice: 94.138%          Jac: 89.242%           F2: 94.621%
+
+epoch:105/200   mean CE loss:0.230362   mean IoU loss:0.0813118
+
+       Acc: 98.540%          Sen: 94.980%          Spe: 98.886%         Prec: 93.641%         Dice: 94.073%          Jac: 89.126%           F2: 94.553%
+
+epoch:106/200   mean CE loss:0.217358   mean IoU loss:0.0796805
+
+       Acc: 98.582%          Sen: 94.686%          Spe: 98.986%         Prec: 94.193%         Dice: 94.211%          Jac: 89.368%           F2: 94.436%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch106_jac89.368.pth has been saved
+epoch:107/200   mean CE loss:0.214766   mean IoU loss:0.078962
+
+       Acc: 98.583%          Sen: 94.848%          Spe: 98.954%         Prec: 94.083%         Dice: 94.234%          Jac: 89.413%           F2: 94.541%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch107_jac89.413.pth has been saved
+epoch:108/200   mean CE loss:0.215345   mean IoU loss:0.0785356
+
+       Acc: 98.585%          Sen: 94.869%          Spe: 98.959%         Prec: 94.088%         Dice: 94.250%          Jac: 89.439%           F2: 94.561%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch108_jac89.439.pth has been saved
+epoch:109/200   mean CE loss:0.213002   mean IoU loss:0.0798403
+
+       Acc: 98.588%          Sen: 94.687%          Spe: 98.981%         Prec: 94.302%         Dice: 94.266%          Jac: 89.465%           F2: 94.459%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch109_jac89.465.pth has been saved
+epoch:110/200   mean CE loss:0.209103   mean IoU loss:0.0781312
+
+       Acc: 98.579%          Sen: 94.349%          Spe: 99.038%         Prec: 94.514%         Dice: 94.200%          Jac: 89.360%           F2: 94.230%
+
+epoch:111/200   mean CE loss:0.222216   mean IoU loss:0.0790578
+
+       Acc: 98.601%          Sen: 94.117%          Spe: 99.100%         Prec: 94.850%         Dice: 94.252%          Jac: 89.451%           F2: 94.113%
+
+epoch:112/200   mean CE loss:0.220268   mean IoU loss:0.0777027
+
+       Acc: 98.592%          Sen: 94.331%          Spe: 99.046%         Prec: 94.613%         Dice: 94.240%          Jac: 89.435%           F2: 94.236%
+
+epoch:113/200   mean CE loss:0.210704   mean IoU loss:0.0789032
+
+       Acc: 98.607%          Sen: 94.105%          Spe: 99.101%         Prec: 94.918%         Dice: 94.284%          Jac: 89.503%           F2: 94.120%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch113_jac89.503.pth has been saved
+epoch:114/200   mean CE loss:0.204579   mean IoU loss:0.0779429
+
+       Acc: 98.615%          Sen: 94.280%          Spe: 99.086%         Prec: 94.812%         Dice: 94.319%          Jac: 89.566%           F2: 94.238%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch114_jac89.566.pth has been saved
+epoch:115/200   mean CE loss:0.221539   mean IoU loss:0.0795984
+
+       Acc: 98.613%          Sen: 94.334%          Spe: 99.085%         Prec: 94.754%         Dice: 94.320%          Jac: 89.570%           F2: 94.271%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch115_jac89.570.pth has been saved
+epoch:116/200   mean CE loss:0.208662   mean IoU loss:0.0786692
+
+       Acc: 98.611%          Sen: 94.503%          Spe: 99.056%         Prec: 94.585%         Dice: 94.322%          Jac: 89.570%           F2: 94.372%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch116_jac89.570.pth has been saved
+epoch:117/200   mean CE loss:0.202808   mean IoU loss:0.0769626
+
+       Acc: 98.581%          Sen: 95.101%          Spe: 98.923%         Prec: 93.902%         Dice: 94.272%          Jac: 89.483%           F2: 94.706%
+
+epoch:118/200   mean CE loss:0.214341   mean IoU loss:0.0776814
+
+       Acc: 98.600%          Sen: 94.706%          Spe: 99.017%         Prec: 94.324%         Dice: 94.285%          Jac: 89.511%           F2: 94.476%
+
+epoch:119/200   mean CE loss:0.207969   mean IoU loss:0.077257
+
+       Acc: 98.609%          Sen: 94.666%          Spe: 99.029%         Prec: 94.444%         Dice: 94.326%          Jac: 89.586%           F2: 94.469%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch119_jac89.586.pth has been saved
+epoch:120/200   mean CE loss:0.20481    mean IoU loss:0.0765959
+
+       Acc: 98.619%          Sen: 94.837%          Spe: 99.010%         Prec: 94.379%         Dice: 94.385%          Jac: 89.682%           F2: 94.596%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch120_jac89.682.pth has been saved
+epoch:121/200   mean CE loss:0.193313   mean IoU loss:0.0764941
+
+       Acc: 98.619%          Sen: 94.765%          Spe: 99.023%         Prec: 94.416%         Dice: 94.373%          Jac: 89.654%           F2: 94.551%
+
+epoch:122/200   mean CE loss:0.203101   mean IoU loss:0.0778991
+
+       Acc: 98.638%          Sen: 94.726%          Spe: 99.058%         Prec: 94.606%         Dice: 94.458%          Jac: 89.792%           F2: 94.564%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch122_jac89.792.pth has been saved
+epoch:123/200   mean CE loss:0.202583   mean IoU loss:0.0766573
+
+       Acc: 98.633%          Sen: 94.917%          Spe: 99.030%         Prec: 94.382%         Dice: 94.439%          Jac: 89.763%           F2: 94.670%
+
+epoch:124/200   mean CE loss:0.211801   mean IoU loss:0.0767502
+
+       Acc: 98.651%          Sen: 94.736%          Spe: 99.073%         Prec: 94.697%         Dice: 94.510%          Jac: 89.881%           F2: 94.592%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch124_jac89.881.pth has been saved
+epoch:125/200   mean CE loss:0.204685   mean IoU loss:0.0759347
+
+       Acc: 98.638%          Sen: 94.926%          Spe: 99.033%         Prec: 94.442%         Dice: 94.473%          Jac: 89.824%           F2: 94.689%
+
+epoch:126/200   mean CE loss:0.212803   mean IoU loss:0.0769423
+
+       Acc: 98.639%          Sen: 94.433%          Spe: 99.088%         Prec: 94.898%         Dice: 94.435%          Jac: 89.781%           F2: 94.375%
+
+epoch:127/200   mean CE loss:0.206226   mean IoU loss:0.0763577
+
+       Acc: 98.640%          Sen: 94.828%          Spe: 99.044%         Prec: 94.564%         Dice: 94.477%          Jac: 89.844%           F2: 94.630%
+
+epoch:128/200   mean CE loss:0.195108   mean IoU loss:0.075832
+
+       Acc: 98.643%          Sen: 94.664%          Spe: 99.062%         Prec: 94.711%         Dice: 94.467%          Jac: 89.829%           F2: 94.527%
+
+epoch:129/200   mean CE loss:0.201585   mean IoU loss:0.0758875
+
+       Acc: 98.641%          Sen: 94.829%          Spe: 99.048%         Prec: 94.564%         Dice: 94.483%          Jac: 89.849%           F2: 94.634%
+
+epoch:130/200   mean CE loss:0.200301   mean IoU loss:0.0749375
+
+       Acc: 98.651%          Sen: 94.601%          Spe: 99.085%         Prec: 94.816%         Dice: 94.493%          Jac: 89.870%           F2: 94.502%
+
+epoch:131/200   mean CE loss:0.213367   mean IoU loss:0.0762659
+
+       Acc: 98.651%          Sen: 94.641%          Spe: 99.080%         Prec: 94.778%         Dice: 94.497%          Jac: 89.871%           F2: 94.528%
+
+epoch:132/200   mean CE loss:0.199208   mean IoU loss:0.0748747
+
+       Acc: 98.654%          Sen: 94.696%          Spe: 99.075%         Prec: 94.715%         Dice: 94.493%          Jac: 89.862%           F2: 94.559%
+
+epoch:133/200   mean CE loss:0.222034   mean IoU loss:0.0766186
+
+       Acc: 98.668%          Sen: 94.421%          Spe: 99.145%         Prec: 95.049%         Dice: 94.526%          Jac: 89.917%           F2: 94.409%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch133_jac89.917.pth has been saved
+epoch:134/200   mean CE loss:0.210957   mean IoU loss:0.0758631
+
+       Acc: 98.674%          Sen: 94.413%          Spe: 99.151%         Prec: 95.136%         Dice: 94.564%          Jac: 89.983%           F2: 94.419%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch134_jac89.983.pth has been saved
+epoch:135/200   mean CE loss:0.2003     mean IoU loss:0.0751084
+
+       Acc: 98.639%          Sen: 95.230%          Spe: 98.989%         Prec: 94.182%         Dice: 94.497%          Jac: 89.863%           F2: 94.880%
+
+epoch:136/200   mean CE loss:0.184802   mean IoU loss:0.0749639
+
+       Acc: 98.651%          Sen: 95.070%          Spe: 99.024%         Prec: 94.415%         Dice: 94.533%          Jac: 89.929%           F2: 94.799%
+
+epoch:137/200   mean CE loss:0.201905   mean IoU loss:0.0751475
+
+       Acc: 98.653%          Sen: 94.840%          Spe: 99.057%         Prec: 94.620%         Dice: 94.520%          Jac: 89.906%           F2: 94.657%
+
+epoch:138/200   mean CE loss:0.203361   mean IoU loss:0.0763271
+
+       Acc: 98.668%          Sen: 94.754%          Spe: 99.098%         Prec: 94.805%         Dice: 94.575%          Jac: 89.998%           F2: 94.629%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch138_jac89.998.pth has been saved
+epoch:139/200   mean CE loss:0.197857   mean IoU loss:0.0747761
+
+       Acc: 98.664%          Sen: 94.718%          Spe: 99.095%         Prec: 94.804%         Dice: 94.555%          Jac: 89.964%           F2: 94.599%
+
+epoch:140/200   mean CE loss:0.192437   mean IoU loss:0.0764035
+
+       Acc: 98.677%          Sen: 94.396%          Spe: 99.164%         Prec: 95.177%         Dice: 94.581%          Jac: 90.008%           F2: 94.418%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch140_jac90.008.pth has been saved
+epoch:141/200   mean CE loss:0.192898   mean IoU loss:0.0758734
+
+       Acc: 98.661%          Sen: 94.950%          Spe: 99.068%         Prec: 94.594%         Dice: 94.575%          Jac: 89.990%           F2: 94.747%
+
+epoch:142/200   mean CE loss:0.195526   mean IoU loss:0.074176
+
+       Acc: 98.657%          Sen: 94.888%          Spe: 99.076%         Prec: 94.630%         Dice: 94.560%          Jac: 89.969%           F2: 94.703%
+
+epoch:143/200   mean CE loss:0.201421   mean IoU loss:0.0761536
+
+       Acc: 98.657%          Sen: 95.151%          Spe: 99.026%         Prec: 94.383%         Dice: 94.568%          Jac: 89.979%           F2: 94.864%
+
+epoch:144/200   mean CE loss:0.19366    mean IoU loss:0.0749324
+
+       Acc: 98.676%          Sen: 94.866%          Spe: 99.097%         Prec: 94.740%         Dice: 94.606%          Jac: 90.045%           F2: 94.709%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch144_jac90.045.pth has been saved
+epoch:145/200   mean CE loss:0.195856   mean IoU loss:0.0737864
+
+       Acc: 98.682%          Sen: 94.884%          Spe: 99.103%         Prec: 94.785%         Dice: 94.640%          Jac: 90.103%           F2: 94.735%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch145_jac90.103.pth has been saved
+epoch:146/200   mean CE loss:0.195276   mean IoU loss:0.0741722
+
+       Acc: 98.674%          Sen: 94.976%          Spe: 99.068%         Prec: 94.662%         Dice: 94.621%          Jac: 90.074%           F2: 94.781%
+
+epoch:147/200   mean CE loss:0.191948   mean IoU loss:0.0737213
+
+       Acc: 98.672%          Sen: 95.077%          Spe: 99.053%         Prec: 94.541%         Dice: 94.611%          Jac: 90.055%           F2: 94.838%
+
+epoch:148/200   mean CE loss:0.196093   mean IoU loss:0.0740089
+
+       Acc: 98.675%          Sen: 95.132%          Spe: 99.060%         Prec: 94.495%         Dice: 94.619%          Jac: 90.065%           F2: 94.875%
+
+epoch:149/200   mean CE loss:0.191253   mean IoU loss:0.073159
+
+       Acc: 98.688%          Sen: 95.138%          Spe: 99.076%         Prec: 94.590%         Dice: 94.675%          Jac: 90.161%           F2: 94.902%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch149_jac90.161.pth has been saved
+epoch:150/200   mean CE loss:0.190194   mean IoU loss:0.0724023
+
+       Acc: 98.675%          Sen: 95.391%          Spe: 99.014%         Prec: 94.308%         Dice: 94.657%          Jac: 90.131%           F2: 95.045%
+
+epoch:151/200   mean CE loss:0.18999    mean IoU loss:0.0742867
+
+       Acc: 98.690%          Sen: 95.210%          Spe: 99.060%         Prec: 94.543%         Dice: 94.687%          Jac: 90.182%           F2: 94.950%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch151_jac90.182.pth has been saved
+epoch:152/200   mean CE loss:0.194678   mean IoU loss:0.0733089
+
+       Acc: 98.688%          Sen: 94.964%          Spe: 99.087%         Prec: 94.758%         Dice: 94.668%          Jac: 90.151%           F2: 94.795%
+
+epoch:153/200   mean CE loss:0.196985   mean IoU loss:0.0749711
+
+       Acc: 98.670%          Sen: 95.521%          Spe: 98.990%         Prec: 94.124%         Dice: 94.632%          Jac: 90.082%           F2: 95.113%
+
+epoch:154/200   mean CE loss:0.193646   mean IoU loss:0.0734423
+
+       Acc: 98.677%          Sen: 95.348%          Spe: 99.021%         Prec: 94.337%         Dice: 94.649%          Jac: 90.116%           F2: 95.016%
+
+epoch:155/200   mean CE loss:0.198859   mean IoU loss:0.0734654
+
+       Acc: 98.661%          Sen: 95.623%          Spe: 98.962%         Prec: 94.000%         Dice: 94.619%          Jac: 90.058%           F2: 95.168%
+
+epoch:156/200   mean CE loss:0.197526   mean IoU loss:0.0725323
+
+       Acc: 98.684%          Sen: 95.262%          Spe: 99.052%         Prec: 94.466%         Dice: 94.676%          Jac: 90.163%           F2: 94.977%
+
+epoch:157/200   mean CE loss:0.191874   mean IoU loss:0.0730111
+
+       Acc: 98.697%          Sen: 94.934%          Spe: 99.105%         Prec: 94.871%         Dice: 94.713%          Jac: 90.232%           F2: 94.796%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch157_jac90.232.pth has been saved
+epoch:158/200   mean CE loss:0.190395   mean IoU loss:0.0720714
+
+       Acc: 98.680%          Sen: 95.442%          Spe: 99.021%         Prec: 94.288%         Dice: 94.677%          Jac: 90.162%           F2: 95.085%
+
+epoch:159/200   mean CE loss:0.188242   mean IoU loss:0.0726863
+
+       Acc: 98.682%          Sen: 95.310%          Spe: 99.045%         Prec: 94.409%         Dice: 94.671%          Jac: 90.155%           F2: 95.003%
+
+epoch:160/200   mean CE loss:0.191748   mean IoU loss:0.0718065
+
+       Acc: 98.684%          Sen: 95.237%          Spe: 99.051%         Prec: 94.505%         Dice: 94.683%          Jac: 90.175%           F2: 94.965%
+
+epoch:161/200   mean CE loss:0.187834   mean IoU loss:0.0729831
+
+       Acc: 98.676%          Sen: 95.468%          Spe: 99.012%         Prec: 94.249%         Dice: 94.669%          Jac: 90.146%           F2: 95.097%
+
+epoch:162/200   mean CE loss:0.185326   mean IoU loss:0.0721051
+
+       Acc: 98.687%          Sen: 95.352%          Spe: 99.043%         Prec: 94.425%         Dice: 94.704%          Jac: 90.206%           F2: 95.043%
+
+epoch:163/200   mean CE loss:0.190629   mean IoU loss:0.072407
+
+       Acc: 98.691%          Sen: 95.561%          Spe: 99.023%         Prec: 94.285%         Dice: 94.739%          Jac: 90.266%           F2: 95.182%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch163_jac90.266.pth has been saved
+epoch:164/200   mean CE loss:0.18343    mean IoU loss:0.0718814
+
+       Acc: 98.696%          Sen: 95.167%          Spe: 99.079%         Prec: 94.645%         Dice: 94.720%          Jac: 90.236%           F2: 94.938%
+
+epoch:165/200   mean CE loss:0.188129   mean IoU loss:0.0727952
+
+       Acc: 98.696%          Sen: 95.181%          Spe: 99.078%         Prec: 94.636%         Dice: 94.722%          Jac: 90.240%           F2: 94.948%
+
+epoch:166/200   mean CE loss:0.189278   mean IoU loss:0.0724317
+
+       Acc: 98.699%          Sen: 95.164%          Spe: 99.085%         Prec: 94.674%         Dice: 94.733%          Jac: 90.262%           F2: 94.941%
+
+epoch:167/200   mean CE loss:0.194117   mean IoU loss:0.0719061
+
+       Acc: 98.706%          Sen: 94.909%          Spe: 99.136%         Prec: 94.926%         Dice: 94.731%          Jac: 90.262%           F2: 94.789%
+
+epoch:168/200   mean CE loss:0.189088   mean IoU loss:0.0725853
+
+       Acc: 98.694%          Sen: 95.438%          Spe: 99.036%         Prec: 94.370%         Dice: 94.716%          Jac: 90.232%           F2: 95.098%
+
+epoch:169/200   mean CE loss:0.197183   mean IoU loss:0.0730883
+
+       Acc: 98.670%          Sen: 95.666%          Spe: 98.971%         Prec: 93.986%         Dice: 94.630%          Jac: 90.082%           F2: 95.197%
+
+epoch:170/200   mean CE loss:0.188889   mean IoU loss:0.0725577
+
+       Acc: 98.681%          Sen: 95.436%          Spe: 99.024%         Prec: 94.260%         Dice: 94.653%          Jac: 90.131%           F2: 95.069%
+
+epoch:171/200   mean CE loss:0.182632   mean IoU loss:0.0720617
+
+       Acc: 98.677%          Sen: 95.548%          Spe: 98.998%         Prec: 94.171%         Dice: 94.663%          Jac: 90.145%           F2: 95.140%
+
+epoch:172/200   mean CE loss:0.188913   mean IoU loss:0.0721662
+
+       Acc: 98.696%          Sen: 95.229%          Spe: 99.071%         Prec: 94.558%         Dice: 94.704%          Jac: 90.217%           F2: 94.968%
+
+epoch:173/200   mean CE loss:0.188322   mean IoU loss:0.0715984
+
+       Acc: 98.685%          Sen: 95.294%          Spe: 99.042%         Prec: 94.438%         Dice: 94.672%          Jac: 90.164%           F2: 94.992%
+
+epoch:174/200   mean CE loss:0.190102   mean IoU loss:0.0715797
+
+       Acc: 98.692%          Sen: 95.305%          Spe: 99.062%         Prec: 94.470%         Dice: 94.696%          Jac: 90.205%           F2: 95.009%
+
+epoch:175/200   mean CE loss:0.193267   mean IoU loss:0.0714417
+
+       Acc: 98.699%          Sen: 95.137%          Spe: 99.088%         Prec: 94.694%         Dice: 94.724%          Jac: 90.254%           F2: 94.921%
+
+epoch:176/200   mean CE loss:0.189828   mean IoU loss:0.0713266
+
+       Acc: 98.687%          Sen: 95.314%          Spe: 99.048%         Prec: 94.474%         Dice: 94.697%          Jac: 90.212%           F2: 95.014%
+
+epoch:177/200   mean CE loss:0.183967   mean IoU loss:0.0708486
+
+       Acc: 98.682%          Sen: 95.385%          Spe: 99.031%         Prec: 94.385%         Dice: 94.689%          Jac: 90.198%           F2: 95.053%
+
+epoch:178/200   mean CE loss:0.186972   mean IoU loss:0.0703355
+
+       Acc: 98.693%          Sen: 95.240%          Spe: 99.064%         Prec: 94.596%         Dice: 94.726%          Jac: 90.256%           F2: 94.983%
+
+epoch:179/200   mean CE loss:0.178601   mean IoU loss:0.0699913
+
+       Acc: 98.700%          Sen: 95.119%          Spe: 99.095%         Prec: 94.746%         Dice: 94.746%          Jac: 90.289%           F2: 94.919%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch179_jac90.289.pth has been saved
+epoch:180/200   mean CE loss:0.187373   mean IoU loss:0.0715189
+
+       Acc: 98.689%          Sen: 95.225%          Spe: 99.057%         Prec: 94.583%         Dice: 94.712%          Jac: 90.234%           F2: 94.968%
+
+epoch:181/200   mean CE loss:0.183376   mean IoU loss:0.0704077
+
+       Acc: 98.686%          Sen: 95.511%          Spe: 99.019%         Prec: 94.284%         Dice: 94.706%          Jac: 90.216%           F2: 95.136%
+
+epoch:182/200   mean CE loss:0.18331    mean IoU loss:0.0711468
+
+       Acc: 98.692%          Sen: 95.426%          Spe: 99.044%         Prec: 94.385%         Dice: 94.713%          Jac: 90.234%           F2: 95.088%
+
+epoch:183/200   mean CE loss:0.185      mean IoU loss:0.0704735
+
+       Acc: 98.687%          Sen: 95.472%          Spe: 99.024%         Prec: 94.322%         Dice: 94.706%          Jac: 90.221%           F2: 95.113%
+
+epoch:184/200   mean CE loss:0.193217   mean IoU loss:0.0711155
+
+       Acc: 98.700%          Sen: 95.273%          Spe: 99.070%         Prec: 94.583%         Dice: 94.738%          Jac: 90.277%           F2: 95.008%
+
+epoch:185/200   mean CE loss:0.182275   mean IoU loss:0.069904
+
+       Acc: 98.681%          Sen: 95.767%          Spe: 98.970%         Prec: 94.043%         Dice: 94.712%          Jac: 90.228%           F2: 95.292%
+
+epoch:186/200   mean CE loss:0.185805   mean IoU loss:0.0712254
+
+       Acc: 98.674%          Sen: 95.855%          Spe: 98.956%         Prec: 93.906%         Dice: 94.687%          Jac: 90.178%           F2: 95.334%
+
+epoch:187/200   mean CE loss:0.181261   mean IoU loss:0.0717164
+
+       Acc: 98.700%          Sen: 95.375%          Spe: 99.056%         Prec: 94.487%         Dice: 94.745%          Jac: 90.283%           F2: 95.073%
+
+epoch:188/200   mean CE loss:0.180131   mean IoU loss:0.0705684
+
+       Acc: 98.697%          Sen: 95.496%          Spe: 99.040%         Prec: 94.350%         Dice: 94.739%          Jac: 90.270%           F2: 95.143%
+
+epoch:189/200   mean CE loss:0.181141   mean IoU loss:0.0698571
+
+       Acc: 98.709%          Sen: 95.216%          Spe: 99.089%         Prec: 94.731%         Dice: 94.788%          Jac: 90.358%           F2: 94.995%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch189_jac90.358.pth has been saved
+epoch:190/200   mean CE loss:0.180332   mean IoU loss:0.070121
+
+       Acc: 98.714%          Sen: 95.160%          Spe: 99.112%         Prec: 94.812%         Dice: 94.805%          Jac: 90.386%           F2: 94.970%
+
+C:\Users\chunc\Documents\Git\ee4211-seg\model\Bird_Seg\model-best-deeplabv3plus_res152_atrous_bird_epoch190_jac90.386.pth has been saved
+epoch:191/200   mean CE loss:0.183364   mean IoU loss:0.0702728
+
+       Acc: 98.713%          Sen: 94.863%          Spe: 99.153%         Prec: 95.061%         Dice: 94.777%          Jac: 90.343%           F2: 94.780%
+
+epoch:192/200   mean CE loss:0.186647   mean IoU loss:0.0713815
+
+       Acc: 98.687%          Sen: 95.373%          Spe: 99.067%         Prec: 94.472%         Dice: 94.736%          Jac: 90.270%           F2: 95.067%
+
+epoch:193/200   mean CE loss:0.174878   mean IoU loss:0.0705365
+
+       Acc: 98.689%          Sen: 95.287%          Spe: 99.085%         Prec: 94.532%         Dice: 94.725%          Jac: 90.250%           F2: 95.013%
+
+epoch:194/200   mean CE loss:0.178932   mean IoU loss:0.070498
+
+       Acc: 98.693%          Sen: 95.324%          Spe: 99.072%         Prec: 94.502%         Dice: 94.725%          Jac: 90.254%           F2: 95.033%
+
+epoch:195/200   mean CE loss:0.181351   mean IoU loss:0.0693556
+
+       Acc: 98.702%          Sen: 94.954%          Spe: 99.135%         Prec: 94.870%         Dice: 94.723%          Jac: 90.256%           F2: 94.812%
+
+epoch:196/200   mean CE loss:0.171735   mean IoU loss:0.0686661
+
+       Acc: 98.695%          Sen: 95.343%          Spe: 99.073%         Prec: 94.460%         Dice: 94.715%          Jac: 90.233%           F2: 95.042%
+
+epoch:197/200   mean CE loss:0.18954    mean IoU loss:0.0700583
+
+       Acc: 98.704%          Sen: 95.116%          Spe: 99.111%         Prec: 94.728%         Dice: 94.737%          Jac: 90.274%           F2: 94.915%
+
+epoch:198/200   mean CE loss:0.188686   mean IoU loss:0.0697584
+
+       Acc: 98.707%          Sen: 95.012%          Spe: 99.131%         Prec: 94.874%         Dice: 94.756%          Jac: 90.308%           F2: 94.860%
+
+epoch:199/200   mean CE loss:0.189336   mean IoU loss:0.0705394
+
+       Acc: 98.708%          Sen: 95.162%          Spe: 99.097%         Prec: 94.737%         Dice: 94.764%          Jac: 90.319%           F2: 94.953%
